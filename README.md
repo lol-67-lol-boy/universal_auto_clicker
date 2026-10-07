@@ -1,0 +1,1 @@
+# universal_auto_clicker
